@@ -4,7 +4,7 @@
 
 
 
-- hosts: loadbalancer
+- hosts: loadserver
 
   roles:
   - role: lbserver
